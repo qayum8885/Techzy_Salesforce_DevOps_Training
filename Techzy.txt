@@ -1,5 +1,1 @@
-Perfroming the git commands for todays session.
-Salesforce Devops Training Program
-Referred by Qayum
-
-End File
+Today we are focusing on GUI Github Desktop and Salesforce Admin activities.
