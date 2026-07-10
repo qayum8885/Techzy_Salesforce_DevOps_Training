@@ -1,1 +1,5 @@
-Todays session on salesforce admin
+Perfroming the git commands for todays session.
+Salesforce Devops Training Program
+Referred by Qayum
+
+End File
